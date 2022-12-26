@@ -90,4 +90,4 @@ exclude:
   - command.txt
   - todo.txt
   - _temp/index.html
-  - _temp/
+  - _temp/ 
